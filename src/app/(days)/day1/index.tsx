@@ -6,7 +6,7 @@ const index = () => {
   return (
     <View>
       <Stack.Screen options={{title:'First day'}}/>
-      <Text>day one code </Text>
+      <Text style = {{fontFamily: 'AmaticBold', fontSize: 100}}>day one code </Text>
     </View>
   )
 }
